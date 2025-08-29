@@ -1,0 +1,18 @@
+tqdm
+FreeSimpleGUI
+matplotlib >= 3.7
+pandas
+numpy>=1.24
+scipy
+statsmodels
+pyinstaller
+jinja2
+pytest
+openpyxl
+seaborn
+jupyterlab
+h5py
+tables
+plotly
+pyinstrument
+black
